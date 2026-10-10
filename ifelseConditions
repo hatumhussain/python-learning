@@ -1,0 +1,23 @@
+#LearningIfelseCondition
+
+#ifelse statements
+#a = int(input("Enter Your Age: "))
+#print("Your Age is: ", a)
+#if(a>18):
+    #print("You can drive")
+#else:
+ #   print("Sorry You are not eligible for driving")
+#appleprice = 200
+#budget = 210
+#if(appleprice <=budget):
+    #print("Add one kg to the cart")
+#else:
+    #print("Budget is out")
+#appleprice = 10
+#budget = 200
+#if(budget-appleprice > 50):
+   #print("Add 1 kg to cart")
+#elif(budget-appleprice > 20):
+    #print("You can buy")
+#else:
+    #print("donot add apply to cart")
